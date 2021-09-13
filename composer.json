@@ -1,6 +1,6 @@
 {
     "name": "javanile/cron-expression",
-    "version": "oci3_v2.3.1",
+    "version": "2.3.1_oci4",
     "type": "library",
     "description": "CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due",
     "keywords": ["cron", "schedule"],
