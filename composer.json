@@ -1,5 +1,5 @@
 {
-    "name": "dragonmantank/cron-expression",
+    "name": "javanile/cron-expression",
     "version": "oci_v2.3.1",
     "type": "library",
     "description": "CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due",
