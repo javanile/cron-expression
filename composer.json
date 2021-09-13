@@ -32,10 +32,5 @@
         "psr-4": {
             "Javanile\\CronExpression\\Tests\\": "tests/CronExpression/"
         }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "2.3-dev"
-        }
     }
 }
