@@ -1,8 +1,8 @@
 <?php
 
-namespace Cron\Tests;
+namespace Javanile\CronExpression\Tests;
 
-use Cron\DayOfMonthField;
+use Javanile\CronExpression\DayOfMonthField;
 use DateTime;
 use DateTimeImmutable;
 use PHPUnit\Framework\TestCase;

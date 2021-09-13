@@ -1,8 +1,8 @@
 <?php
 
-namespace Cron\Tests;
+namespace Javanile\CronExpression\Tests;
 
-use Cron\MinutesField;
+use Javanile\CronExpression\MinutesField;
 use DateTime;
 use DateTimeImmutable;
 use PHPUnit\Framework\TestCase;

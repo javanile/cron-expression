@@ -24,12 +24,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Cron\\": "src/Cron/"
+            "Javanile\\CronExpression\\": "src/CronExpression/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Tests\\": "tests/Cron/"
+            "Javanile\\CronExpression\\Tests\\": "tests/CronExpression/"
         }
     },
     "extra": {

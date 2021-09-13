@@ -1,6 +1,6 @@
 <?php
 
-namespace Cron;
+namespace Javanile\CronExpression;
 
 /**
  * Abstract CRON expression field

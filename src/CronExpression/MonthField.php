@@ -1,6 +1,6 @@
 <?php
 
-namespace Cron;
+namespace Javanile\CronExpression;
 
 use DateTimeInterface;
 

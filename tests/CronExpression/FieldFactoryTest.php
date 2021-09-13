@@ -1,8 +1,8 @@
 <?php
 
-namespace Cron\Tests;
+namespace Javanile\CronExpression\Tests;
 
-use Cron\FieldFactory;
+use Javanile\CronExpression\FieldFactory;
 use PHPUnit\Framework\TestCase;
 
 /**
@@ -16,11 +16,11 @@ class FieldFactoryTest extends TestCase
     public function testRetrievesFieldInstances()
     {
         $mappings = array(
-            0 => 'Cron\MinutesField',
-            1 => 'Cron\HoursField',
-            2 => 'Cron\DayOfMonthField',
-            3 => 'Cron\MonthField',
-            4 => 'Cron\DayOfWeekField',
+            0 => 'Javanile\CronExpression\MinutesField',
+            1 => 'Javanile\CronExpression\HoursField',
+            2 => 'Javanile\CronExpression\DayOfMonthField',
+            3 => 'Javanile\CronExpression\MonthField',
+            4 => 'Javanile\CronExpression\DayOfWeekField',
         );
 
         $f = new FieldFactory();

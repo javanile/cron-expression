@@ -1,9 +1,9 @@
 <?php
 
-namespace Cron\Tests;
+namespace Javanile\CronExpression\Tests;
 
-use Cron\CronExpression;
-use Cron\MonthField;
+use Javanile\CronExpression\CronExpression;
+use Javanile\CronExpression\MonthField;
 use DateTime;
 use DateTimeImmutable;
 use DateTimeZone;

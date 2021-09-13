@@ -1,11 +1,11 @@
 <?php
 
-namespace Cron\Tests;
+namespace Javanile\CronExpression\Tests;
 
-use Cron\DayOfWeekField;
-use Cron\HoursField;
-use Cron\MinutesField;
-use Cron\MonthField;
+use Javanile\CronExpression\DayOfWeekField;
+use Javanile\CronExpression\HoursField;
+use Javanile\CronExpression\MinutesField;
+use Javanile\CronExpression\MonthField;
 use PHPUnit\Framework\TestCase;
 
 /**
